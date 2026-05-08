@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "446051ef-3d2d-4f51-a0a4-d39fa96780c3",
+  "path": "Image Editing",
+  "path_key": "image editing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

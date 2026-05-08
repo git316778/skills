@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c450207-6067-40ff-becd-51ab7893bc5f",
+  "path": "bear-notes",
+  "path_key": "bear-notes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

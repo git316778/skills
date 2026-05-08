@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "822e543f-3776-40ff-a0f9-b7cf8bbca5da",
+  "path": "playwright-scraper-skill",
+  "path_key": "playwright-scraper-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

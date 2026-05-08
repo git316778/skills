@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f0a2bac-8581-42cf-9c79-b8bfc3b68156",
+  "path": "travel-planning",
+  "path_key": "travel-planning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

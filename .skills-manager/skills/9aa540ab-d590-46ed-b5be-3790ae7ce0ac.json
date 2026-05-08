@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9aa540ab-d590-46ed-b5be-3790ae7ce0ac",
+  "path": "video-editor-helper",
+  "path_key": "video-editor-helper",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

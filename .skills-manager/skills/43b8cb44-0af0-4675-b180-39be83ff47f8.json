@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "43b8cb44-0af0-4675-b180-39be83ff47f8",
+  "path": "desktop-control",
+  "path_key": "desktop-control",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

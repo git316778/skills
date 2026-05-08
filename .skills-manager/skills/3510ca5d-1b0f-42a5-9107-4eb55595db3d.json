@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3510ca5d-1b0f-42a5-9107-4eb55595db3d",
+  "path": "Playwright (Automation + MCP + Scraper)",
+  "path_key": "playwright (automation + mcp + scraper)",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

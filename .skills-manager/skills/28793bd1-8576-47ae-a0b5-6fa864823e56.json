@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "28793bd1-8576-47ae-a0b5-6fa864823e56",
+  "path": "Skill Finder (Find ClawHub skills + Search Skills.sh)",
+  "path_key": "skill finder (find clawhub skills + search skills.sh)",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8255987d-22da-4276-98d8-b55875962cb6",
+  "path": "tavily-search",
+  "path_key": "tavily-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

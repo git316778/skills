@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d7a3789-28bf-41d6-9c05-df48c4b67a27",
+  "path": "ctrip-wendao",
+  "path_key": "ctrip-wendao",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

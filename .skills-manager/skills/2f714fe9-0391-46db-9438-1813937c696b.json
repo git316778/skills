@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f714fe9-0391-46db-9438-1813937c696b",
+  "path": "self-improving-agent-2",
+  "path_key": "self-improving-agent-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

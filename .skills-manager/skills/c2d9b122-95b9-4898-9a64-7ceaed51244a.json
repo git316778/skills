@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2d9b122-95b9-4898-9a64-7ceaed51244a",
+  "path": "stagehand-browser-cli",
+  "path_key": "stagehand-browser-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

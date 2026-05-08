@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71d3dc6d-85fa-47ba-b0fb-1dfdafc43c67",
+  "path": "blucli",
+  "path_key": "blucli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d12bd8d-2c6b-44e7-a9a9-8ffc699f767c",
+  "path": "sherpa-onnx-tts",
+  "path_key": "sherpa-onnx-tts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

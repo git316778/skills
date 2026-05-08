@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "099b97ff-bcd5-4e49-a6fa-9c283ffd4c6d",
+  "path": "airchina-travel-assistant",
+  "path_key": "airchina-travel-assistant",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c62a2f2-0093-409f-a21d-04aa32fd70ec",
+  "path": "eightctl",
+  "path_key": "eightctl",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

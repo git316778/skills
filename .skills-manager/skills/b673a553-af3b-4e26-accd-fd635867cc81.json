@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b673a553-af3b-4e26-accd-fd635867cc81",
+  "path": "goplaces",
+  "path_key": "goplaces",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

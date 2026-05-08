@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a876c50a-9f7e-4d6c-85b4-36d8375d4c35",
+  "path": "ordercli",
+  "path_key": "ordercli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

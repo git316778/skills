@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bf641ee-62d5-4723-ad75-0205178406d4",
+  "path": "weiyun",
+  "path_key": "weiyun",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

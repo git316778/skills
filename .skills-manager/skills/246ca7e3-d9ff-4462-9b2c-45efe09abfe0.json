@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "246ca7e3-d9ff-4462-9b2c-45efe09abfe0",
+  "path": "12306-train-assistant",
+  "path_key": "12306-train-assistant",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

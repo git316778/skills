@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2a917b7-b0fa-44f4-8389-2b4f9f36afee",
+  "path": "Data Analysis",
+  "path_key": "data analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cbaef10c-2ba6-4eb4-a08b-a68746b5ac47",
+  "path": "xiaohongshu",
+  "path_key": "xiaohongshu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

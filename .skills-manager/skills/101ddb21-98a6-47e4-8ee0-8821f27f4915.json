@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "101ddb21-98a6-47e4-8ee0-8821f27f4915",
+  "path": "byterover",
+  "path_key": "byterover",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

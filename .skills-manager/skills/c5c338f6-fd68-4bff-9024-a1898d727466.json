@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5c338f6-fd68-4bff-9024-a1898d727466",
+  "path": "browser-harness",
+  "path_key": "browser-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "browser-use/browser-harness/browser-harness",
+    "subpath": null,
+    "branch": null
+  }
+}

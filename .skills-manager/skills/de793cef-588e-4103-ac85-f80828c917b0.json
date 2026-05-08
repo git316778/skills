@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de793cef-588e-4103-ac85-f80828c917b0",
+  "path": "sag",
+  "path_key": "sag",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

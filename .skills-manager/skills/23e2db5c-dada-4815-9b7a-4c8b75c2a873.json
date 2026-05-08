@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23e2db5c-dada-4815-9b7a-4c8b75c2a873",
+  "path": "smooth-browser",
+  "path_key": "smooth-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

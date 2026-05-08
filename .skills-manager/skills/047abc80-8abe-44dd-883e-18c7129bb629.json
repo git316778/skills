@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "047abc80-8abe-44dd-883e-18c7129bb629",
+  "path": "markdown-new",
+  "path_key": "markdown-new",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

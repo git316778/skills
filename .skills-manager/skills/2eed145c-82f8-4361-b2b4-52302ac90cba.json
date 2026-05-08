@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2eed145c-82f8-4361-b2b4-52302ac90cba",
+  "path": "aviation-weather",
+  "path_key": "aviation-weather",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

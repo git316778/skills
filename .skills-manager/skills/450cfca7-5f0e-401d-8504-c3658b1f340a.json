@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "450cfca7-5f0e-401d-8504-c3658b1f340a",
+  "path": "clawdhub",
+  "path_key": "clawdhub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff0e1196-934d-4b2d-8a03-d5857867303e",
+  "path": "Baidu Wenku AIPPT",
+  "path_key": "baidu wenku aippt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

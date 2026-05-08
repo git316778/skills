@@ -1,0 +1,29 @@
+{
+  "skills": {
+    "aippt": {
+      "type": "system",
+      "version": 1,
+      "sha256": "dd8340c6694df5b83a3e4c5c0816c584fc6c4169d6c1d3dc731ddcbac8059061",
+      "installed_at": "2026-05-08T13:45:19+08:00"
+    },
+    "fbs_bookwriter": {
+      "type": "system",
+      "version": 1,
+      "sha256": "da13f5db6eff9c0fda94adec0dab3da95c55d3959a016853202997367cdb7faa",
+      "installed_at": "2026-05-08T13:45:19+08:00"
+    },
+    "kdocs": {
+      "type": "system",
+      "version": 1,
+      "sha256": "0b45bb8b99309d1547c8919c9499c4bdb3a5d5278a771b279d7280b500c50e17",
+      "installed_at": "2026-05-08T13:45:19+08:00"
+    },
+    "persona-switch": {
+      "type": "system",
+      "version": 6,
+      "sha256": "06f00020a4f45aa16da56bd28ecd37c1e9971d04788ebbf50e63aef883b6f479",
+      "installed_at": "2026-05-08T13:45:19+08:00"
+    }
+  },
+  "last_sync": "2026-05-08T14:39:25+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ecd5be31-5373-42f1-b4f1-632df1b71a99",
+  "path": "taskflow-inbox-triage",
+  "path_key": "taskflow-inbox-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

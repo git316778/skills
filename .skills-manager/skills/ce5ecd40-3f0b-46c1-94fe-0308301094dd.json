@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce5ecd40-3f0b-46c1-94fe-0308301094dd",
+  "path": "pexoai-agent",
+  "path_key": "pexoai-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

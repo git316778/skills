@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b67fb089-26d3-497e-9f5b-6a37423a6b86",
+  "path": "wacli",
+  "path_key": "wacli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

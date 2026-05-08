@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26bed37e-c511-4666-b977-74257bb1175a",
+  "path": "libtv-skill",
+  "path_key": "libtv-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

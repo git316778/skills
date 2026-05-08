@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "763dcefa-5ba7-416e-b948-b5a38615bf58",
+  "path": "cctv-news-fetcher",
+  "path_key": "cctv-news-fetcher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

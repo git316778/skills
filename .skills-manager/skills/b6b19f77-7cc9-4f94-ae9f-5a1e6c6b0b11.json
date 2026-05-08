@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6b19f77-7cc9-4f94-ae9f-5a1e6c6b0b11",
+  "path": "voice-call",
+  "path_key": "voice-call",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f662791c-d610-4cde-865d-90a832529113",
+  "path": "perplexity",
+  "path_key": "perplexity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

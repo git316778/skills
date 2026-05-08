@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c569522-c3b1-4af1-ba63-329ca09eb171",
+  "path": "imsg",
+  "path_key": "imsg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0e7f2a5-a1dc-4a41-ac3b-fc99cab390a5",
+  "path": "Self-Improving Agent (Proactive Self-Reflection)",
+  "path_key": "self-improving agent (proactive self-reflection)",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

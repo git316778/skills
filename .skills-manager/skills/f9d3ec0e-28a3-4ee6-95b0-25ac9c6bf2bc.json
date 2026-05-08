@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f9d3ec0e-28a3-4ee6-95b0-25ac9c6bf2bc",
+  "path": "n8n-workflow-automation",
+  "path_key": "n8n-workflow-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

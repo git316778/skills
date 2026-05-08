@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3fdfd67a-54e8-4fc9-a7db-f93429fb0d5c",
+  "path": "airbnb",
+  "path_key": "airbnb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

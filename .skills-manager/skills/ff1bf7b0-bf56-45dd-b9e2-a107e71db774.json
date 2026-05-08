@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff1bf7b0-bf56-45dd-b9e2-a107e71db774",
+  "path": "agent-memory",
+  "path_key": "agent-memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

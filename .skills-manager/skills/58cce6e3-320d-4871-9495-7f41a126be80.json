@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "58cce6e3-320d-4871-9495-7f41a126be80",
+  "path": "wechat-mp-cn",
+  "path_key": "wechat-mp-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

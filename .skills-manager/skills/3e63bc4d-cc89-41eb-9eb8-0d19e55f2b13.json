@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e63bc4d-cc89-41eb-9eb8-0d19e55f2b13",
+  "path": "bilibili-monitor",
+  "path_key": "bilibili-monitor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

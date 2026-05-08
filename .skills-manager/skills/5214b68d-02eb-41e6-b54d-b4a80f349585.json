@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5214b68d-02eb-41e6-b54d-b4a80f349585",
+  "path": "qq-email",
+  "path_key": "qq-email",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

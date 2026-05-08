@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7483cb8-98a1-45dc-bc89-209c6dfbfd1f",
+  "path": "clawdefender",
+  "path_key": "clawdefender",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
