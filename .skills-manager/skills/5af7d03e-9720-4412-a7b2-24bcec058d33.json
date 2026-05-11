@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5af7d03e-9720-4412-a7b2-24bcec058d33",
+  "path": "apple-notes-2",
+  "path_key": "apple-notes-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "777b118a-010d-4eaa-815d-87ae8bc2b029",
+  "path": "test-driven-development",
+  "path_key": "test-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

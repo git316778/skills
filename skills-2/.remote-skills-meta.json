@@ -2,9 +2,12 @@
   "skills": {
     "aippt": {
       "type": "system",
-      "version": 1,
-      "sha256": "dd8340c6694df5b83a3e4c5c0816c584fc6c4169d6c1d3dc731ddcbac8059061",
-      "installed_at": "2026-05-08T13:45:19+08:00"
+      "version": 2,
+      "sha256": "c5fdc2d21fab9c05f3256433148c056a84bc592532c5cbaa3c7b715d90740669",
+      "installed_at": "2026-05-09T16:20:22+08:00",
+      "icon": "",
+      "install_mode": 1,
+      "effect_scope": 3
     },
     "fbs_bookwriter": {
       "type": "system",
@@ -23,7 +26,16 @@
       "version": 6,
       "sha256": "06f00020a4f45aa16da56bd28ecd37c1e9971d04788ebbf50e63aef883b6f479",
       "installed_at": "2026-05-08T13:45:19+08:00"
+    },
+    "wecom-weisheng-scrm": {
+      "type": "system",
+      "version": 1,
+      "sha256": "0fa70e1c42017eee6cce4c7c67426446674d1f6375416a845892509b657166e8",
+      "installed_at": "2026-05-09T16:20:22+08:00",
+      "icon": "https://webcdn.m.qq.com/webcdn/qclaw/skills/icons/1778225940017_wecom-weisheng-scrm.png",
+      "install_mode": 1,
+      "effect_scope": 3
     }
   },
-  "last_sync": "2026-05-08T14:39:25+08:00"
+  "last_sync": "2026-05-11T15:16:40+08:00"
 }

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "991a705e-9552-4693-9e6a-b34a796622c8",
+  "path": "fine-tuning-with-trl",
+  "path_key": "fine-tuning-with-trl",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e06dc0e-dbc2-4b43-b8b3-35f5d3c06449",
+  "path": "axolotl",
+  "path_key": "axolotl",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

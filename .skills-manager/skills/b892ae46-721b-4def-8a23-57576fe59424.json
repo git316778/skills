@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b892ae46-721b-4def-8a23-57576fe59424",
+  "path": "claude-design",
+  "path_key": "claude-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2e68685-3999-4320-b8e5-dfefc3e87b63",
+  "path": "dogfood",
+  "path_key": "dogfood",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

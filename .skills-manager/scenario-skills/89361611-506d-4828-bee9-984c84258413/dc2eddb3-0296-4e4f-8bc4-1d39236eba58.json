@@ -4,6 +4,8 @@
   "skill_id": "dc2eddb3-0296-4e4f-8bc4-1d39236eba58",
   "sort_order": 0,
   "tools": {
+    "hermes": true,
+    "hermes_2": true,
     "openclaw": true,
     "opencode": true,
     "qclaw": true,

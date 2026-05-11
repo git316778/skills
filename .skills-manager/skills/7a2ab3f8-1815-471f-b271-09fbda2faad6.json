@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a2ab3f8-1815-471f-b271-09fbda2faad6",
+  "path": "hermes-dashboard-setup",
+  "path_key": "hermes-dashboard-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

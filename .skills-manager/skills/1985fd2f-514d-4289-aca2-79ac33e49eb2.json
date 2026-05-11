@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1985fd2f-514d-4289-aca2-79ac33e49eb2",
+  "path": "ai-image-generation",
+  "path_key": "ai-image-generation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "inference-skills/skills/ai-image-generation",
+    "subpath": "tools\\image\\ai-image-generation",
+    "branch": null
+  }
+}
