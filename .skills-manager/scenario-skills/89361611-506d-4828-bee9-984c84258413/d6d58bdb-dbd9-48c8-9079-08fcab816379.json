@@ -2,10 +2,12 @@
   "schema_version": 1,
   "scenario_id": "89361611-506d-4828-bee9-984c84258413",
   "skill_id": "d6d58bdb-dbd9-48c8-9079-08fcab816379",
-  "sort_order": 64,
+  "sort_order": 124,
   "tools": {
+    "codex": true,
     "hermes": true,
     "hermes_2": true,
+    "mobileclaw": true,
     "openclaw": true,
     "opencode": true,
     "qclaw": true,
