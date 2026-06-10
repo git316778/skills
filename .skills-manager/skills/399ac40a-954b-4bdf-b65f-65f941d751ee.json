@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "399ac40a-954b-4bdf-b65f-65f941d751ee",
+  "path": "automated-cloud-backup",
+  "path_key": "automated-cloud-backup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
