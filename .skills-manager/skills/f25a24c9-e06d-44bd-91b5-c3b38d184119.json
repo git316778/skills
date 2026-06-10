@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f25a24c9-e06d-44bd-91b5-c3b38d184119",
+  "path": "p5js-2",
+  "path_key": "p5js-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

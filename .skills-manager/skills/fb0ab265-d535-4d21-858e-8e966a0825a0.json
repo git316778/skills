@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb0ab265-d535-4d21-858e-8e966a0825a0",
+  "path": "plan-2",
+  "path_key": "plan-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

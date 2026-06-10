@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a11353a-944c-4457-9053-7dad33a251c0",
+  "path": "yun139-cloud-storage",
+  "path_key": "yun139-cloud-storage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

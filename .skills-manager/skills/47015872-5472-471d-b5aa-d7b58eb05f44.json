@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47015872-5472-471d-b5aa-d7b58eb05f44",
+  "path": "codex-windows-fast-patch",
+  "path_key": "codex-windows-fast-patch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

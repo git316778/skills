@@ -5,7 +5,9 @@
   "sort_order": 152,
   "tools": {
     "codex": true,
+    "hermes": true,
     "mobileclaw": true,
-    "opencode": true
+    "opencode": true,
+    "workbuddy": true
   }
 }

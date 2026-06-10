@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4804f88-23d7-4e77-9a3a-c2e75858c589",
+  "path": "polymarket-3",
+  "path_key": "polymarket-3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

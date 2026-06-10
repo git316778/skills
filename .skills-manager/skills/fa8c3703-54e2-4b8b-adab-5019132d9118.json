@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa8c3703-54e2-4b8b-adab-5019132d9118",
+  "path": "codex-2",
+  "path_key": "codex-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
