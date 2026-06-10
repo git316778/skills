@@ -74,13 +74,46 @@ YUN139_TOKEN=*** in scripts:
 import os
 token = os.environ.get("YUN139_TOKEN", "").strip()
 if not token:
-    token_file = os.path.join(os.path.dirname(__file__), "yun139_token.env")
-    with open(token_file) as f:
-        for line in f:
-            if line.startswith("YUN139_TOKEN=***            token = line.split("=", 1)[1].strip()
+ token_file = os.path.join(os.path.dirname(__file__), "yun139_token.env")
+ with open(token_file) as f:
+ for line in f:
+ line = line.strip()
+ if line.startswith("YUN139_TOKEN=*** token = line.split("=", 1)[1].strip()
+ if token:
+ return token
+return ""  # or raise if token is required
 ```
 
 **Security**: always add `.env` files to `.gitignore`.
+
+## Cron Job Management: Update, Don't Recreate
+
+When modifying an existing cron job (changing the script path, updating the prompt), use the **update** action — never create a duplicate:
+
+```
+cronjob: update
+  job_id: <id>           # from cronjob list
+  prompt: <new prompt>
+  skills: []             # clear skills if not needed (reduces input token overhead)
+```
+
+Clearing `skills=[]` on update removes unnecessary skill payloads from cron runs, saving ~2K tokens per invocation.
+
+## Scan Directory Strategy: Avoid Unnecessary Depths
+
+Do NOT include directories with 100K+ files (e.g. `Documents/`, large project dirs) — they cause 120s+ timeouts. Stick to small, well-scoped paths:
+
+```python
+ARTIFACT_SCAN_DIRS = [
+    os.path.join(USER_HOME, ".config", "mobileclaw", "workspaces", "<workspace>", "workspace"),  # primary
+    os.path.join(SCRIPTS_DIR, "backups"),
+    os.path.join(SCRIPTS_DIR, "output"),
+    os.path.join(USER_HOME, "Desktop"),   # top-level only (max_depth=1)
+    # Do NOT include Documents/ or large project dirs
+]
+```
+
+If you need to scan a large directory, use `max_depth=1` to avoid deep recursion.
 
 ## Token Refresh for Long-Running Jobs
 
@@ -235,3 +268,18 @@ SEP = "**" + "*" + " DOCSTRING " + "**" + "*"
 ```
 
 This affects any code generation with markdown-style `***` horizontal rules or multi-asterisk patterns.
+
+## Tool Pitfall: Shell Heredoc `\n` Interpretation
+
+When writing Python code via `bash -c "..."` or heredoc, `\n` inside Python string literals gets interpreted as actual newlines, corrupting the output. Two fixes:
+
+```bash
+# Fix 1: Use single-quoted python -c (bash treats $'...' specially, but single quotes prevent $ expansion)
+python -c 'print("line1\nline2")'   # \n preserved as literal backslash-n
+
+# Fix 2: Write a generator script via write_file, then run it
+# Step 1: write generator.py
+python generator.py > target.py
+```
+
+This was the root cause of broken multiline print() calls in the smart backup script — `\n` + newline in heredoc became literal newlines in the generated file.

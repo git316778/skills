@@ -23,16 +23,15 @@ Full script at `C:\Users\Administrator\AppData\Local\hermes\scripts\hermes_smart
 | 0 | All parts succeeded |
 | 2 | One or more parts failed |
 
-## Artifact Scan Directories (Restricted)
+## Artifact Scan Directories (Restricted — avoid 100K+ paths)
 
 ```python
 ARTIFACT_SCAN_DIRS = [
     ".config/mobileclaw/workspaces/<workspace>/workspace/",   # primary workspace
     "AppData/Local/hermes/scripts/backups/",                  # backup output
     "AppData/Local/hermes/scripts/output/",                   # skill output
-    "AppData/Local/hermes/skills/",                           # custom skills
     "Desktop/",      # top-level files only (max_depth=1)
-    "Documents/",    # user documents
+    # Do NOT include Documents/ — can have 100K+ files causing timeouts
 ]
 ```
 
